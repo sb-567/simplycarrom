@@ -1,0 +1,2 @@
+[26-Oct-2021 09:43:20 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/simplycarrom/public_html/admin/application/libraries/Cropper.php on line 180
+[29-Oct-2021 12:35:34 UTC] PHP Fatal error:  Cannot redeclare Order_model::getAllOrderDetails() in /home/googlehai/public_html/simplycarrom/admin/application/models/Order_model.php on line 41

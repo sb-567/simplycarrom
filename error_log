@@ -1,0 +1,4 @@
+[30-Sep-2021 13:14:13 UTC] PHP Fatal error:  Cannot use [] for reading in /home/googlehai/public_html/simplycarrom/application/controllers/Checkout.php on line 153
+[02-Oct-2021 14:24:26 UTC] PHP Fatal error:  Assignments can only happen to writable values in /home/googlehai/public_html/simplycarrom/application/views/home.php on line 162
+[26-Oct-2021 07:14:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/simplycarrom/public_html/application/views/home.php on line 397
+[26-Oct-2021 07:15:37 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/simplycarrom/public_html/application/views/home.php on line 397
